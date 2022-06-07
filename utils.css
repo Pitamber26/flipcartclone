@@ -1,4 +1,4 @@
-.flex-all-center{
+.flexallcenter{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,6 +21,6 @@
     margin: 26px 0;
 }
 
-.textcenter{
+.text-center{
     text-align: center;
 }
